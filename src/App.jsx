@@ -5,6 +5,10 @@ const links = [
     name: "Staggered and scroll animation",
     url: "/staggered-and-scroll",
   },
+  {
+    name: "Fade in and up animation",
+    url: "/fade-in-and-up",
+  },
 ];
 
 function App() {
